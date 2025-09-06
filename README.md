@@ -1,4 +1,4 @@
-# EcoFinds Rocket
+# EcoFinds
 
 A full-stack marketplace application where users can list and buy eco-friendly second-hand products. Built with a React + Vite + Tailwind CSS frontend and a Node.js + Express.js + MongoDB backend(local-compass).
 
